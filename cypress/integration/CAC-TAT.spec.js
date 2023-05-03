@@ -181,6 +181,8 @@ describe('Central de Atendimento ao Cliente TAT', function() {
     })
 
     it('testa a página da política de privacidade de forma independente', function() {
-        
+        //feito scrip no package.json
     })
+
+
 })
